@@ -1,4 +1,4 @@
-# CP-Solutions
+# Competitive Programming solutions
 
 ## 200+ problems solved
 
