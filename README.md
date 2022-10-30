@@ -7,7 +7,7 @@
  These problems use different techniques and concepts such as:
  - Recursion
  - Dynamic Programming
- - Graph problems with bfs and dfs search
+ - Graph problems with breath-first and depth-first search
  - Greedy algorithms
  - Combinatorics
  - Bitwise operations
