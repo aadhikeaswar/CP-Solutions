@@ -1,6 +1,6 @@
 # CP-Solutions
 
-## 200 + problems solved
+## 200+ problems solved
 
  It consists of **180+** solutions from codeForces and about **30** solutions from atCoder. 
  
