@@ -2,7 +2,7 @@
 
 ## 200+ problems solved
 
- It consists of **180+** solutions from codeForces and about **30** solutions from atCoder. 
+ It consists of **150+** solutions from codeForces, about **30** solutions from atCoder along with **50** solutions from codechef. 
  
  These problems use different techniques and concepts such as:
  - Recursion
